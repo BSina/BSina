@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
 <h1 align="center">Hi 👋, I'm Sina Bagheri</h1>
 <h3 align="center">An iOS developer with over 3 years of experience</h3>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **EasyMetronome**
 
-- 👨‍💻 All of my projects are available at [sinabagheri.com](sinabagheri.com)
+- 👨‍💻 All of my projects are available at [sinabagheri.com](https://www.sinabagheri.com)
 
 - 💬 Ask me about **SwiftUI, Swift, Combine**
 
